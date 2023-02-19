@@ -1273,8 +1273,8 @@ body {
   -o-transition: opacity 0.8s ease 0s;
   transition: opacity 0.8s ease 0s; }
   .item-portfolio__image img {
-    -o-object-position: top;
-    object-position: top;
+    -o-object-position: top left;
+    object-position: top left;
     -webkit-transition: -webkit-transform 0.8s ease 0s;
     transition: -webkit-transform 0.8s ease 0s;
     -o-transition: transform 0.8s ease 0s;
